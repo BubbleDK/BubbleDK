@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; 19 years old, from Denmark.
 - 🎓 &nbsp; Self-taught developer, always learning new stuff.
-- 💻 &nbsp; Currently learning React.JS
+- 💻 &nbsp; Currently learning a lot
 
 
 ### 🛠 &nbsp;Tech Stack
