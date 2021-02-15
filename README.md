@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<BubbleDK>&theme=<THEME_NAME>" />
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 <!--
 **BubbleDK/BubbleDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
