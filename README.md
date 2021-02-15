@@ -31,6 +31,5 @@
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BubbleDK&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BubbleDK&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
