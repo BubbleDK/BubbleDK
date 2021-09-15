@@ -1,13 +1,13 @@
 <h1>Hello World 🙋‍♂️</h1>
-<h2>💻👨‍💻Self-taught developer</h2>
+<h2>💻👨‍💻Computer Science Student</h2>
 
 <hr>
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; 19 years old, from Denmark.
-- 🎓 &nbsp; Self-taught developer, always learning new stuff.
-- 💻 &nbsp; Currently learning a lot
+- 🎓 &nbsp; Studying computer science.
+- 💻 &nbsp; Currently learning Java and way to much other stuff.
 
 
 ### 🛠 &nbsp;Tech Stack
