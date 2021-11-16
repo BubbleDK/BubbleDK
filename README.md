@@ -5,7 +5,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; 19 years old, from Denmark.
+- 🤔 &nbsp; 20 years old, from Denmark.
 - 🎓 &nbsp; Studying computer science.
 - 💻 &nbsp; Currently learning Java and way to much other stuff.
 
