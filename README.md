@@ -7,7 +7,6 @@
 
 - 🤔 &nbsp; 20 years old, from Denmark.
 - 🎓 &nbsp; Studying computer science.
-- 💻 &nbsp; Currently learning Java and way to much other stuff.
 
 
 ### 🛠 &nbsp;Tech Stack
