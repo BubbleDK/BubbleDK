@@ -7,3 +7,11 @@ I'm Bubble, a computer science student and a self-motivated tech enthusiast.
 <p align="center">
 For enquiries, reach out to me at discord: <i>Bubble#8785</i>
 </p>
+
+<br>
+
+<p align="center">
+  <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleDK&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
