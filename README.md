@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Bubble, a Bachelor of Science in Software Development student and a self-motivated tech enthusiast.
+I'm Bubble, a fulltime Software engineer and a self-motivated tech enthusiast.
 </p>
 
 <p align="center">
